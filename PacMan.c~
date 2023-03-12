@@ -1,0 +1,17 @@
+/*
+ * PacMan.c
+ *
+ * Created: 13/03/2018 08:48:43 p. m.
+ * Author: barby
+ */
+
+#include <mega328p.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
